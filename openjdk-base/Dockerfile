@@ -24,3 +24,4 @@ RUN apt-get update \
     autoconf \
     wget \
     git \
+    vim \
